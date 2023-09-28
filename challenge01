@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Challenge 01 di Alice</title>
+    <style>
+    table {
+        border-collapse:collapse
+    }
+    td, th {
+        border:1px solid #ddd;
+        padding:8px;
+    }
+    body {
+        font-size: 13px; 
+        width: 850px; 
+        text-align:justify; 
+        font-family: Tahoma;    
+    }
+    </style>
+</head>
+<body>
+    <h1 style="font-family: Thaoma; color:rgb(139, 83, 192); font-variant-caps: all-petite-caps;">Ciao, sono Alice!</h1>
+    <div style="float: left; max-width: 250px"><img src="https://i.ibb.co/zPHtpcd/ciau.png" alt="ciau" style="max-width: 250px;"></div>
+    <div style="float: left; max-width: 600px;"><table>
+        <tbody>
+    <tr><td>ITA (Madrelingua)</td>
+        <td>Salve a tutti, sono Alice Alessandrini. Mi sono laureata alla Sapienza in Lingue e Civiltà Orientali, nello specifico ho studiato Giapponese e Coreano. Sebbene le culture orientali continuino ad affascinarmi tutt'ora, ho deciso di esplorare anche altre passioni, come l'arte, gli animali, e, alla fine, ciò che c'è dietro al web. Non vedo l'ora di imparare e crescere, sia lavorativamente che come persona!</td></tr>
+    <tr><td>ENG (B2/C1)</td>    
+        <td>Hi everyone, the name's Alice Alessandrini. I've got a Bachelor from La Sapienza University in Oriental Langueges and Civilizations, with a focus on Japanese and Korean studies. Even though to this day eastern cultures still fashinates me, I've decided to explore my other passions, as arts, pets and, right now, the web developer path. I can't wait to grow both as a person and as a professional! </td></tr>
+    <tr><td>JPN (N3)</td>
+        <td>こんにちは、私の名前はアレッサンドリニ・アリチェです。どうぞよろしくお願いします。ローマの大学La・Sapienzaには東洋の言語と文明卒業して、日本語と韓国語を専門していました。今はアート、ペット、ウェブなど、他の情熱を追いたいと思っています。私は絶対頑張りますね。</td></tr>
+    <tr><td>KOR (TOPIK1)</td>    
+        <td>안녕하세요 저는 알리체 입니다, 처음뵙겠습니다. 저는 로마 라사피엔자대학교에서 동양 언어와 문명을 전공했습니다. 이제 웹 개발을 공부하고 싶습니다. 최선을 다하겠습니다.</td></tr>
+</tbody></table></div>
+<h2 style="font-family: Thaoma; color:rgb(95, 53, 133); font-variant-caps: all-small-caps;">Altro? Altro.</h2>
+<ul>Una breve lista di cose:</ul>
+<li>Ho tre cani: Floki, Lady e Yuki. Tre adorabili casinisti.</li>
+<li>Ho anche due gatti, King e Oliver...poi basta, giuro.</li>
+<li>Oltre a badare ai miei (già troppi) animali, di quando in quando faccio la dog sitter per amici e vicini.</li>
+<li>Ho un diploma da grafico pubblicitario. Ancora oggi, a distanza di anni, mi piace pasticciare su Photoshop.</li>
+<li>Adoro disegnare. Dal 2020 ho una dipendenza da Procreate.</li>
+<li>A fare da sottofondo mentre faccio tutte queste cose, c'è quasi sempre un film, una serie tv, un anime!</li>
+<br>
+<h3 style="font-family: Thaoma; color:rgb(49, 25, 72); font-variant-caps: all-small-caps;">Infine i miei contatti...</h3>
+<a href="https://www.instagram.com/mille.inverni/" target="_blank">Instagram Personale</a>・<a href="https://www.instagram.com/ace.lilli.art/ " Target="_blank">L'instagram "artistico"</a>
+<br>
+Email: <a href="mailto: alice.alessandrini.12.12.1993@gmail.com">Link!</a>
+</body>
+</html>
