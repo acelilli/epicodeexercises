@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Challenge 02 di Alice</title>
+    <style>
+        body {
+            align-items: center;
+            background-image: url('https://cdn.thedesigninspiration.com/wp-content/uploads/2012/05/Music-Monitor-l.jpg');
+        }
+        div {
+            height: max 500px; width: 700px;
+            margin-top: 10px; margin-bottom: 10px;
+            border: 2px dotted darkorchid;
+            font-size: 14px; color: aliceblue;
+            text-align: center;
+            font-family: 'Segoe UI';
+            background-color: rgb(18, 18, 18);
+        }
+    </style>
+</head>
+<body style="background-color: black;">
+    <h1 style="color: rgb(233, 158, 246);">&#128007 Music Bunny</h1>
+    <form onsubmit="alert('Registrazione inviata')">
+        <div> Ciao, <input type="text" placeholder="Inserisci nome"/>
+        <input type="text" placeholder="Inserisci cognome"/>
+    vuoi ascoltare un po' di musica?<br>
+     Hai già scelto un nome utente unico e originale? <input type="text" placeholder="Username"><br>
+     Per farci un'idea dei tuoi gusti, facci sapere la tua data di nascita: <input type="date"/></div>
+    <div> Per accedere al tuo account registra la tua email: <input type="email" placeholder="latua@email.com"/><br>
+        e scegli una password utilizzando numeri e lettere <input type="password" placeholder="Password"/>, 
+        tuttavia ti sconsigliamo di condividerla: è super segreta!
+        <br>
+        Per proteggerti ulteriormente inserisci il tuo numero di telefono: <input type="tel" placeholder="111 222 3333"/>
+    .</div>
+        <div>Bene, ora è il momento di dirci i tuoi gusti nel dettaglio. Quali generi ti piacciono?
+            <table align="center">
+                <tr><td><input type="checkbox"/>Alternativa</td> <td><input type="checkbox"/>Ambient</td> <td><input type="checkbox"/>Blues</td></tr>
+                <tr><td><input type="checkbox"/>Classica</td> <td><input type="checkbox"/>Classic Rock</td> <td><input type="checkbox"/>Dance</td></tr>
+                <tr><td><input type="checkbox"/>Electro</td> <td><input type="checkbox"/>Funk</td> <td><input type="checkbox"/>Grunge</td></tr>
+                <tr><td><input type="checkbox"/>Hip-Hop</td> <td><input type="checkbox"/>J-Pop</td> <td><input type="checkbox"/>K-Pop</td></tr>
+                <tr><td><input type="checkbox"/>Lounge</td> <td><input type="checkbox"/>Latina</td> <td><input type="checkbox"/>Pop</td></tr>
+                <tr><td><input type="checkbox"/>Rap</td> <td><input type="checkbox"/>Rock</td> <td><input type="checkbox"/>R'nB</td></tr>
+                <tr><td><input type="checkbox"/>Soundtracks</td> <td><input type="checkbox"/>Techno</td> <td><input type="checkbox"/>Unknown</td></tr>
+        </table></div>
+        <div>
+            Finalmente gli ultimi passaggi per completare la registrazione:<br>
+        <input type="radio"> Accetto le condizioni d'uso del servizio. <br>
+        <input type="radio"> Voglio ricevere ads rilevanti.
+    </div>
+        <button type="submit">Conferma Registrazione</button>
+        </form>
+</body>
+</html>
